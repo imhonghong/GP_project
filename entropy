@@ -1,1 +1,8 @@
 import csv
+path=r"C:\python\sw\fourclass.csv"
+with open(path, newline='') as csvfile:
+    rows = csv.reader(csvfile)
+    for row in rows:
+        print(row)
+
+print(type(row))
