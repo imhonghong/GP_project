@@ -4,5 +4,5 @@ with open(path, newline='') as csvfile:
     rows = csv.reader(csvfile)
     for row in rows:
         print(row)
+rows_num=[list(map(float, row)) for row in rows]
 
-print(type(row))
