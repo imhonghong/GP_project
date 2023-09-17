@@ -1,8 +1,15 @@
-import csv
-path=r"C:\python\sw\fourclass.csv"
-with open(path, newline='') as csvfile:
-    rows = csv.reader(csvfile)
-    for row in rows:
-        print(row)
-rows_num=[list(map(float, row)) for row in rows]
+#by YiRou,Song and ChengYu,Zheng
+def Calculate_Entropy(dataproperty):
+    entropy = 0
+    label_count = {}
+    for row in dataproperty:
+        if row in label_count:
+            label_count[row] += 1
+        else:
+            label_count[row] = 1
+            
+    for key in label_count:
+        probability = label_count[key] / len(dataproperty)
+        entropy -= probability * math.log2(probability)
 
+    return entropy
