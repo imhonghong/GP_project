@@ -1,0 +1,956 @@
+breast-cancer:99.91
+
+
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 0 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 1 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 2 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 3 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 4 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 5 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 6 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 7 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 8 time
+success: 45
+fail: 97
+results of test data in depth 1
+success: 45
+fail: 97
+
+results of test data in depth 2
+success: 45
+fail: 97
+
+results of test data in depth 3
+success: 45
+fail: 97
+
+final results of test data in DT
+number of test data 142
+it's 9 time
+success: 45
+fail: 97
+for iris.csv, average accuracy=31.690140845070424%
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 0 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 1 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 2 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 3 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 4 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 5 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 6 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 7 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 8 time
+success: 586
+fail: 232
+results of test data in depth 1
+success: 523
+fail: 295
+
+results of test data in depth 2
+success: 523
+fail: 295
+
+results of test data in depth 3
+success: 586
+fail: 232
+
+results of test data in depth 4
+success: 539
+fail: 279
+
+final results of test data in DT
+number of test data 818
+it's 9 time
+success: 586
+fail: 232
+for fourclass.csv, average accuracy=71.63814180929096%
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 0 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 1 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 2 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 3 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 4 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 5 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 6 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 7 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 8 time
+success: 594
+fail: 54
+results of test data in depth 1
+success: 592
+fail: 56
+
+results of test data in depth 2
+success: 594
+fail: 54
+
+results of test data in depth 3
+success: 562
+fail: 86
+
+final results of test data in DT
+number of test data 648
+it's 9 time
+success: 594
+fail: 54
+for breast-cancer.csv, average accuracy=91.66666666666666%
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 0 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 1 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 2 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 3 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 4 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 5 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 6 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 7 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 8 time
+success: 9002
+fail: 498
+results of test data in depth 1
+success: 7326
+fail: 2174
+
+results of test data in depth 2
+success: 8678
+fail: 822
+
+results of test data in depth 3
+success: 8919
+fail: 581
+
+results of test data in depth 4
+success: 9002
+fail: 498
+
+results of test data in depth 5
+success: 8955
+fail: 545
+
+final results of test data in DT
+number of test data 9500
+it's 9 time
+success: 9002
+fail: 498
+for Phishing_Legitimate_full.csv, average accuracy=94.7578947368421%
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 0 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 1 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 2 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 3 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 4 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 5 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 6 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 7 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 8 time
+success: 889
+fail: 396
+results of test data in depth 1
+success: 889
+fail: 396
+
+results of test data in depth 2
+success: 867
+fail: 418
+
+final results of test data in DT
+number of test data 1285
+it's 9 time
+success: 889
+fail: 396
+for csv_result-PhishingData.csv, average accuracy=69.1828793774319%
+---------------------------------------------------------------------------
+FileNotFoundError                         Traceback (most recent call last)
+<ipython-input-6-18968c6c433c> in <cell line: 459>()
+    463       #data=pd.read_csv('Phishing_Legitimate_full.csv',header=None)
+    464       #data=pd.read_csv('csv_result-PhishingData.csv',header=None)
+--> 465       data=pd.read_csv(ds,header=None,low_memory=False)
+    466       data_1=DP2(data)
+    467       [train_data,test_data,convertlist]=DP(data_1)
+
+6 frames
+/usr/local/lib/python3.10/dist-packages/pandas/io/common.py in get_handle(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)
+    854         if ioargs.encoding and "b" not in ioargs.mode:
+    855             # Encoding
+--> 856             handle = open(
+    857                 handle,
+    858                 ioargs.mode,
+
+FileNotFoundError: [Errno 2] No such file or directory: 'csv_result-Training\\ Dataset.csv'
