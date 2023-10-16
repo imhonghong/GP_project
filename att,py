@@ -20,7 +20,7 @@ def transverse(data,long,width):
 
 def CAV(ap,long,width):
     cnt=[]
-    for pro in range(0,width,1):
+    for pro in range(0,width-1,1): #width is class
         cl=[]
         for ele in range(0,long,1):
             if(ap[pro][ele] not in cl):
@@ -45,10 +45,16 @@ def testing(datafile):
         ap=transverse(data,long,width)
         cnt=CAV(ap,long,width)
         stats=countListByDict(cnt)
-        print(f"for {datafile[i]} ,")
+        print(f"for {datafile[i]} , has {width-1} attributes")
         print(f"it's attribute value is like {stats}")
 
 ####### main function #####
-datafile=['Phishing Websites Data Set.csv','Website Phishing Data Set.csv','Phishing_Legitimate_full.csv']
+datafile=['Phishing Websites Data Set.csv',
+          'Website Phishing Data Set.csv',
+          'Phishing_Legitimate_full.csv',
+          'breast-cancer.csv',
+          'fourclass.csv',
+          'iris.csv',
+          'Obfuscated-MalMem2022.csv']
 testing(datafile)
 
