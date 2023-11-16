@@ -1,4 +1,5 @@
 # function: many decimal(<65535) output by 4-bit-hex in txt file
+# function: given an 2D array, output a txt file
 def DtoB16(dec):
     B16=[]
     if(dec<0):
@@ -63,7 +64,7 @@ def B16toH4_STR(s):
             x="E"
         else:
             x="F"
-        hs=hs+x
+        hs=hs+x #hs is string
     return hs
 
 def DecToH4(dec):
@@ -73,11 +74,17 @@ def DecToH4(dec):
     return hs
 
 #####-----main function-----#####
-dec=[4560,55004,35280]
-path = 'output.txt'
+dec=[[1,2,3],[11,12,13],[21,22,23],[31,32,33]]
+
+path = 'PI.txt'
 f = open(path, 'w')
-for d in range(0,len(dec)):
-    hs=DecToH4(dec[d])
-    print(hs, file=f)
+
+for ins in range(0,4):
+    a_instr=""
+    for att in range(0,3):
+        a_instr=a_instr+DecToH4(dec[ins][att])+" "
+    a_instr=a_instr[0:(len(a_instr)-1)]
+    print(a_instr,file=f)
+    
 f.close()
 print("work is done, please check the txt file")
