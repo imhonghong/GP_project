@@ -1,5 +1,8 @@
 # function: many decimal(<65535) output by 4-bit-hex in txt file
 # function: given an 2D array, output a txt file
+#read csv convert to 2D number list
+#constrain: number only, string is prohibitted
+
 def DtoB16(dec):
     B16=[]
     if(dec<0):
@@ -73,18 +76,61 @@ def DecToH4(dec):
     hs=B16toH4_STR(s)
     return hs
 
+
+import csv
+
+def csvTO2d(path):
+    with open(path,newline='') as f:
+        ad=[]
+        csvreader = csv.reader(f)
+        for row in csvreader:
+            ad.append(row[1:]) #cut id
+        ad=ad[1:] #cut title row
+        for ins in range(0,len(ad)):
+            ad[ins]=list(map(float, ad[ins]))
+    return ad
+
+def findMin(ad):
+    minList=[]
+    for att in range(0,len(ad[1])):
+        min=ad[0][att]
+        for ins in range(0,len(ad)):
+            if(ad[ins][att]<min):
+                min=ad[ins][att]
+        minList.append(min)
+
+    return minList
+
+def bias_ad(ad,minList):
+    for att in range(0,len(minList)):
+        if(att==(len(minList)-1)): #giving class bias, reserve 0 for not-leaf
+            for ins in range(0,len(ad)):
+                ad[ins][att]=ad[ins][att]-minList[att]+1            
+        else:
+            for ins in range(0,len(ad)):
+                ad[ins][att]=ad[ins][att]-minList[att]
+
+    return ad
+
 #####-----main function-----#####
-dec=[[1,2,3],[11,12,13],[21,22,23],[31,32,33]]
+
+path=r"D:\onedrive同步資料夾\OneDrive - 國立中山大學\中山05\0_GP專題\phase3\csv_result-Training Dataset.csv"
+ad=csvTO2d(path)
+minList=findMin(ad)
+dec=bias_ad(ad,minList)
 
 path = 'PI.txt'
 f = open(path, 'w')
-
-for ins in range(0,4):
+for ins in range(0,len(dec)):
     a_instr=""
-    for att in range(0,3):
+    for att in range(0,len(minList)):
         a_instr=a_instr+DecToH4(dec[ins][att])+" "
-    a_instr=a_instr[0:(len(a_instr)-1)]
+    a_instr=a_instr[0:-1]
     print(a_instr,file=f)
     
 f.close()
 print("work is done, please check the txt file")
+
+
+
+
